@@ -1,4 +1,4 @@
-# Android7.0-BLE-Behavior-Changes
+# Android7.0-BLE-Behavior-Notes
 Android BLE相关的一些要点。
 
 1.Android7.0 以后频繁开关扫描5次会触发保护机制，导致30s后才能再次接收到扫描回调。
