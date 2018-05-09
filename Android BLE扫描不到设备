@@ -2,7 +2,8 @@
 1.Android6.0以后需要定位权限，部分手机还需要打开定位功能才可以。
 
 2.Android7.0 以后频繁开关扫描5次会触发保护机制，导致30s后才能再次接收到扫描回调。 
-参考Alex Suzuki大神的博客https://blog.classycode.com/undocumented-android-7-ble-behavior-changes-d1a9bd87d983
+a.参考Alex Suzuki大神的博客https://blog.classycode.com/undocumented-android-7-ble-behavior-changes-d1a9bd87d983
+b.参考https://stackoverflow.com/questions/45681711/app-is-scanning-too-frequently-with-scansettings-scan-mode-opportunistic
 
 内容如下：
 
