@@ -4,6 +4,7 @@
 2.Android7.0 以后频繁开关扫描5次会触发保护机制，导致30s后才能再次接收到扫描回调。 
 a.参考Alex Suzuki大神的博客https://blog.classycode.com/undocumented-android-7-ble-behavior-changes-d1a9bd87d983
 b.参考https://stackoverflow.com/questions/45681711/app-is-scanning-too-frequently-with-scansettings-scan-mode-opportunistic
+c.参考https://android-review.googlesource.com/c/platform/packages/apps/Bluetooth/+/215844
 
 内容如下：
 
